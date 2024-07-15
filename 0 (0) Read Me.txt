@@ -1,0 +1,8 @@
+
+
+The Medal Sprites are ripped out from the game files.
+
+The Medal Sprites are found in data > motion > ui_reviver_medal folder.
+
+If you are confused why there are 5 sprites of vivosaurs (Tonzilla, Salada, Super Evolver etc) that have no recolors seems the
+game needs 5 sprites for every vivosaur.
